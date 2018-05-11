@@ -1,0 +1,4 @@
+#Fri May 11 03:33:59 WAT 2018
+base.0=/Users/CharlesApochi/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
